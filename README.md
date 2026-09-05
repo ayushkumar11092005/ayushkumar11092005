@@ -122,7 +122,8 @@
 
 <!-- Project Screenshot -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=AI+Powered+Resume+Analyzer+Screenshot" alt="Resume Analyzer" width="100%" />
+  << />
+ />
 </p>
 
 <p align="center">
@@ -130,7 +131,8 @@
     <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-8A2BE2?style=for-the-badge" />
   </a>
   <a href="https://github.com/ayushkumar11092005">
-    <img src="https://img.shields.io/badge/💻_SOURCE_CODE-100000?style=for-the-badge&logo=github&logoColor=white" />
+    <<img width="1536" height="1024" alt="AI" src="https://github.com/user-attachments/assets/998209f0-00b9-49fd-a043-73c100156594" />
+ />
   </a>
 </p>
 
