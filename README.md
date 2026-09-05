@@ -102,7 +102,7 @@
 
 <!-- Project Screenshot -->
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=AI+Chatbot+for+College+Queries+Screenshot" alt="College Query Chatbot" width="100%" />
+  <https://github.com/ayushkumar11092005/ayushkumar11092005/blob/37a6523d183e4d848447512057b1fa0bd12faa27/Chatbot.png />
 </p>
 
 <p align="center">
