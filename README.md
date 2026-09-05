@@ -1,9 +1,9 @@
-<!-- TOP FLOATING / ANIMATED HEADER BANNER -->
+<!-- TOP ELEGANT GRADIENT HEADER BANNER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:00d4ff&height=180&section=header&text=Ayush%20Kumar%20Choudhary&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,24,30,32,35&height=180&section=header&text=Ayush%20Kumar%20Choudhary&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <!-- TYPING SVG ANIMATION -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vcenter=true&width=650&lines=Hi+%F0%9F%90%8B,+I'm+Ayush+Kumar+Choudhary;Frontend+%26+AI+Developer;Game+Development+Enthusiast;CSE+Student+@+SRIT+Jabalpur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=A855F7&center=true&vcenter=true&width=650&lines=Hi+%F0%9F%90%8B,+I'm+Ayush+Kumar+Choudhary;Frontend+Developer;Game+Development+Enthusiast;CSE+Student+@+SRIT+Jabalpur" alt="Typing SVG" />
   
   <p align="center">
     <b>4th-Year B.Tech CSE Student at Shriram Institute of Technology (SRIT), Jabalpur</b>
@@ -11,7 +11,7 @@
 
   <!-- VISITOR COUNTER BADGE -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=ayushkumar11092005&label=Profile%20Views&color=007ACC&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=ayushkumar11092005&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views" />
   </p>
 
   <!-- SOCIAL BADGES -->
@@ -33,11 +33,10 @@
 ### 👤 About Me
 
 - 🏫 **4th-Year B.Tech CSE** student at Shriram Institute of Technology (SRIT), Jabalpur.
-- 🎮 Passionate about **Game Development** and building interactive applications.
-- 🤖 Experienced in developing **AI-powered applications**, Chatbots, and Intelligent Systems.
-- 💻 Proficient in **Data Structures & Algorithms (DSA) in Python** and Object-Oriented Programming.
+- 🎮 Passionate about **Game Development** and building interactive web applications.
+- 💻 Proficient in **Frontend Development**, **Data Structures & Algorithms (DSA) in Python**, and Object-Oriented Programming.
 - 📊 Hands-on experience in **Data Analytics** (Pandas, NumPy, Power BI).
-- 🎯 Open to **SDE, Game Developer, AI/ML, and Software Developer Internship Opportunities**.
+- 🎯 Open to **Frontend Developer, SDE, Game Developer, and Software Developer Internship Opportunities**.
 
 ---
 
@@ -108,7 +107,7 @@
 
 <p align="center">
   <a href="https://github.com/ayushkumar11092005">
-    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-007ACC?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-8A2BE2?style=for-the-badge" />
   </a>
   <a href="https://github.com/ayushkumar11092005">
     <img src="https://img.shields.io/badge/💻_SOURCE_CODE-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -127,8 +126,7 @@
 
 <p align="center">
   <a href="https://github.com/ayushkumar11092005">
-    <img src="https://github.com/ayushkumar11092005">
-    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-007ACC?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-8A2BE2?style=for-the-badge" />
   </a>
   <a href="https://github.com/ayushkumar11092005">
     <img src="https://img.shields.io/badge/💻_SOURCE_CODE-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -140,6 +138,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushkumar11092005&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar11092005&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushkumar11092005&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkumar11092005&theme=dark&hide_border=true" width="48%" />
 </div>
