@@ -102,7 +102,8 @@
 
 <!-- Project Screenshot -->
 <p align="center">
-  <https://github.com/ayushkumar11092005/ayushkumar11092005/blob/37a6523d183e4d848447512057b1fa0bd12faa27/Chatbot.png />
+  <<img width="1983" height="793" alt="Chatbot" src="https://github.com/user-attachments/assets/7479663e-7544-4fb8-9d6f-a3fa8d44dce6" />
+ />
 </p>
 
 <p align="center">
