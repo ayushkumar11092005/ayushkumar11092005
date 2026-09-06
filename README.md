@@ -1,3 +1,4 @@
+<img width="1448" height="1086" alt="logo1" src="https://github.com/user-attachments/assets/cfff2b6f-ef6d-4bef-bf60-9b613c4a34e0" />
 <!-- TOP ELEGANT GRADIENT HEADER BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,24,30,32,35&height=180&section=header&text=Ayush%20Kumar%20Choudhary&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
@@ -131,7 +132,9 @@
     <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-8A2BE2?style=for-the-badge" />
   </a>
   <a href="https://github.com/ayushkumar11092005">
-    <<img width="1536" height="1024" alt="AI" src="https://github.com/user-attachments/assets/998209f0-00b9-49fd-a043-73c100156594" />
+    <<img width="1448" height="1086" alt="logo1" src="https://github.com/user-attachments/assets/8afc8a05-857f-43fb-8c5c-02b71c565ceb" />
+ />
+ />
  />
   </a>
 </p>
