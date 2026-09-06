@@ -1,4 +1,4 @@
-<img width="1448" height="1086" alt="logo1" src="https://github.com/user-attachments/assets/cfff2b6f-ef6d-4bef-bf60-9b613c4a34e0" />
+
 <!-- TOP ELEGANT GRADIENT HEADER BANNER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,24,30,32,35&height=180&section=header&text=Ayush%20Kumar%20Choudhary&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" />
